@@ -1,0 +1,45 @@
+[
+  {
+    "id": "fce850b6-cf5d-407e-b783-8dafc0622c1d",
+    "noHp": "6282162305550",
+    "email": "gtiofandy@gmail.com",
+    "name": "Gilbert Tiofandy",
+    "password": "gilbert",
+    "sex": "Male",
+    "history": [
+      {
+        "orderId": "GMT-928cff29",
+        "alamatUser": "Langkat, North Sumatra, Sumatra, 20374, Indonesia",
+        "alamatDetail": "asd",
+        "driverNotes": "",
+        "shoppingTotal": "177540",
+        "date": "2024-11-09T13:47:00.475Z",
+        "cart": [
+          {
+            "name": "Essence Mascara Lash Princess",
+            "price": "9.99",
+            "quantity": "1",
+            "image": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+          }
+        ],
+        "paymentMethod": "Tunai"
+      }
+    ],
+    "balance": [
+      {
+        "walletBalances": 2000000
+      },
+      {
+        "topUpHistory": [
+          {
+            "topUpId": "GTU-cebe8061",
+            "amount": 2000000,
+            "paymentMethod": "creditCard",
+            "date": "2024-11-09T13:48:20.687Z"
+          }
+        ]
+      }
+    ],
+    "img": "/img/users/fce850b6-cf5d-407e-b783-8dafc0622c1d-profileimg.jpg"
+  }
+]
